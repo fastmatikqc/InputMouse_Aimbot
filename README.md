@@ -11,3 +11,5 @@
 		Sleep(3000);
 		exit(0);
 	}
+
+#### and replace ur mouse_event for : input::move_mouse(mycode.x, mycode.y);
